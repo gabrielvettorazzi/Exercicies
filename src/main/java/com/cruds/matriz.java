@@ -12,8 +12,8 @@ public class matriz {
         char[] anArrayOfChars;
         String[] anArrayOfString;
         //pode ser colocado no final tambem(menos recomenado)
-        
-        String name[];
 
+        String name[];
+        String anarrayofbuiter[];
     }
 }
